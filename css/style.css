@@ -1,0 +1,76 @@
+/*style.css*/
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  line-height: 1.5;
+  min-height: 100vh;
+  flex-direction: column;
+  margin: 0;
+  background-image: url('/img/FsY6H.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+>
+}
+
+.main {
+  background-image:url('/img/Firefly\ A\ Serin\ bird\ on\ a\ tree\ branch\ 28273\(1\).jpg');
+  border-radius: 15px;
+  box-shadow:0 0 20px pink
+  padding: 30px 40px;
+  transition: transform .5s;
+  width: 500px;
+  text-align: center;
+  margin: center;
+}
+
+h1 {
+  color: #f0d401;
+}
+
+label {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  text-align: left;
+  color: #cdd408;
+  font-weight: bold;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+button {
+  padding: 15px;
+  border-radius: 30px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border: 30px;
+  color: white;
+  cursor: pointer;
+  background: #f0d401;
+  width: 100%;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+}
+form{
+    
+}
